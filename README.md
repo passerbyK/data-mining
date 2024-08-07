@@ -8,4 +8,4 @@ Developed a web scraper using Python with Beautiful Soup and Selenium for hotel 
 
 Implemented a web crawler in Python with Beautiful Soup and Selenium for extracting food reviews. The code focuses on simplicity, and the use of Selenium showcases a practical approach to web scraping.
 
-Should you have any inquiries or feedback, feel free to [contact me](xiangyi.huang0213@gmail.com).
+Should you have any inquiries or feedback, feel free to [contact me](mailto:xiangyi.huang0213@gmail.com).
